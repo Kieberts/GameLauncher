@@ -1,0 +1,12 @@
+﻿Properties/
+
+.idea/
+
+.vs
+App.config
+
+GameLauncher.sln
+
+bin/
+obj/
+packages/
