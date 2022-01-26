@@ -6,7 +6,10 @@
 App.config
 
 GameLauncher.sln
+packages.config
 
 bin/
 obj/
 packages/
+
+._FrmAdmin.cs
